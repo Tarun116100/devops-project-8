@@ -1,1 +1,16 @@
+Training – 5th Day (Date: 30/03/2026)
 
+Topic: GitHub Basics
+
+Today I learned about GitHub and how to upload and download files/folders.
+
+How to Create a GitHub Repository and Upload Files
+-->Create a GitHub account.
+-->Click on your profile.
+-->Select Repositories.
+-->Click on New.
+-->Enter the project name.
+-->Set the repository to Public.
+-->Click on Create Repository.
+-->Upload files by dragging and dropping them.
+-->Click on Commit changes.
