@@ -1,0 +1,20 @@
+
+How to Download a Project Repository from GitHub
+-->Open the repository URL.
+-->Click on the Code button.
+-->Select Download ZIP.
+-->After downloading, right-click on the ZIP file.
+-->Select Extract All to unzip the files.
+
+Assignment:
+
+Given 6 URLs, download the ZIP files.
+Extract the files and upload them to your own GitHub account.
+Create one file named Tarun.txt in your repository.
+
+How to Create a File in a Repository
+-->Open your project repository.
+-->Click on Add file.
+-->Select Create new file.
+-->Enter the file name (e.g., Tarun.txt).
+-->Click on Commit changes.
